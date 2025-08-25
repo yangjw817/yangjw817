@@ -28,7 +28,8 @@
 
 - **eLDPC: An Elastic HLS-friendly LDPC-Decoder with Dynamical Scheduling**(TCAD在投): 优化HLS在任务级调度中的表现，使用双缓冲区和重构输出缓冲优化译码器中译码单元运行时间不对齐的问题，综合吞吐率较SOTA提升**5×**
 
-### Transformer 模型异构硬件推理加速
+###  面向CPU-GPU并行的GNN训练框架设计与优化 
+<!-- Transformer 模型异构硬件推理加速 -->
 
 开放合作研究课题 - 光明实验室 GNN优化加速 | 2025.01 - 至今
 
